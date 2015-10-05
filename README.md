@@ -13,4 +13,14 @@ Huge thank you to the following individuals for sharing their knowledge:
 + [Jonah Dube](http://www.dubejonah.com/) (DigiPen Classmate)
 
 + [Erin Catto](http://box2d.org/) (Box2D Author and Professional Physics Programmer)
-  
+
+## Features
++ 2D Rigidbody Dynamics
++ Polygon and Ellipse Collision Detection (GJK / EPA)
++ Collider Compositing
++ Collision Events
++ Iterative Solving
++ Warm Starting
++ Contact Caching
++ Distance Joints
++ Raycasting
